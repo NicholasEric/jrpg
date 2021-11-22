@@ -1,0 +1,114 @@
+{
+  "startCall": "fadeIn",
+  "endCall": "fadeOutGame",
+  "subscene": [
+    {
+      "music": "",
+      "bg": "doorWithSwordBg",
+      "type": "0",
+      "speakers": [],
+      "dialogue": [
+        {
+          "speaker": "",
+          "text": "...."
+        },
+        {
+          "speaker": "",
+          "text": "Ugly ass sword.."
+        },
+        {
+          "speaker": "",
+          "text": "Father's gift"
+        },
+        {
+          "speaker": "",
+          "text": "............"
+        },
+        {
+          "speaker": "",
+          "text": "Damnit God"
+        },
+        {
+          "speaker": "",
+          "text": "This looks sadder than my 3 inch weiner"
+        },
+        {
+          "speaker": "",
+          "text": "Fuck"
+        },
+        {
+          "speaker": "",
+          "text": "..."
+        },
+        {
+          "speaker": "",
+          "text": "What is that goofy goober even plotting"
+        },
+        {
+          "speaker": "",
+          "text": "ffs I wanna nut again"
+        },
+        {
+          "speaker": "",
+          "text": "..........."
+        },
+        {
+          "speaker": "",
+          "text": "Fine then"
+        },
+        {
+          "speaker": "",
+          "text": "I got nothing better to do anyway"
+        }
+      ]
+    },
+    {
+      "music": "",
+      "bg": "holeBg",
+      "type": "0",
+      "speakers": [],
+      "dialogue": [
+        {
+          "speaker": "",
+          "text": "The tunnel of nothingness"
+        },
+        {
+          "speaker": "",
+          "text": "The home of the most number of homeless crackheads"
+        },
+        {
+          "speaker": "",
+          "text": "The place where my father picked me up"
+        },
+        {
+          "speaker": "",
+          "text": "......."
+        },
+        {
+          "speaker": "",
+          "text": "Smells like semen"
+        },
+        {
+          "speaker": "",
+          "text": "............"
+        },
+        {
+          "speaker": "",
+          "text": "Guess I got no choice"
+        },
+        {
+          "speaker": "",
+          "text": "Submerging in 3"
+        },
+        {
+          "speaker": "",
+          "text": "2"
+        },
+        {
+          "speaker": "",
+          "text": "1"
+        }
+      ]
+    }
+  ]
+}

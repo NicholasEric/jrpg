@@ -1,0 +1,170 @@
+{
+  "startCall": "fadeIn",
+  "endCall": "fadeOutBed",
+  "subscene": [
+    {
+      "music": "",
+      "bg": "handBg",
+      "type": "0",
+      "speakers": [],
+      "dialogue": [
+        {
+          "speaker": "",
+          "text": "........."
+        },
+        {
+          "speaker": "",
+          "text": "......................."
+        },
+        {
+          "speaker": "",
+          "text": "......................................."
+        },
+        {
+          "speaker": "",
+          "text": "Another day has passed ever since that day"
+        },
+        {
+          "speaker": "",
+          "text": "That day.."
+        },
+        {
+          "speaker": "",
+          "text": "..................................................."
+        },
+        {
+          "speaker": "",
+          "text": "Oh Stephany"
+        },
+        {
+          "speaker": "",
+          "text": "My dear, dear Stephany"
+        },
+        {
+          "speaker": "",
+          "text": "Hehe"
+        },
+        {
+          "speaker": "",
+          "text": "Guess this hand will do"
+        },
+        {
+          "speaker": "",
+          "text": "*knocks*"
+        },
+        {
+          "speaker": "",
+          "text": "Huh"
+        }
+      ]
+    },
+    {
+      "music": "",
+      "bg": "bedBg",
+      "type": "1_1",
+      "speakers": ["Aris", "Juna"],
+      "dialogue": [
+        {
+          "speaker": "Aris",
+          "text": "Hey"
+        },
+        {
+          "speaker": "Juna",
+          "text": "Tf"
+        },
+        {
+          "speaker": "Juna",
+          "text": "ARIS?!"
+        },
+        {
+          "speaker": "Aris",
+          "text": "It's been a while, Juna"
+        },
+        {
+          "speaker": "Juna",
+          "text": "I'll kill your watermelon ass"
+        },
+        {
+          "speaker": "Aris",
+          "text": "Chill nigga"
+        },
+        {
+          "speaker": "Aris",
+          "text": "I have an offer"
+        },
+        {
+          "speaker": "Aris",
+          "text": "Steph is alive, Juna"
+        },
+        {
+          "speaker": "Juna",
+          "text": "U trippin"
+        },
+        {
+          "speaker": "Aris",
+          "text": "No, trust me"
+        },
+        {
+          "speaker": "Aris",
+          "text": "Come to the tunnel, juna"
+        },
+        {
+          "speaker": "Juna",
+          "text": "....."
+        },
+        {
+          "speaker": "Juna",
+          "text": "Fuck you"
+        },
+        {
+          "speaker": "Juna",
+          "text": "Ima nut"
+        },
+        {
+          "speaker": "Aris",
+          "text": "ok"
+        },
+        {
+          "speaker": "Aris",
+          "text": "I'll be waiting"
+        }
+      ]
+    },
+    {
+      "music": "",
+      "bg": "bedBg",
+      "type": "0",
+      "speakers": [],
+      "dialogue": [
+        {
+          "speaker": "",
+          "text": "....."
+        },
+        {
+          "speaker": "",
+          "text": "............."
+        },
+        {
+          "speaker": "",
+          "text": "............................"
+        },
+        {
+          "speaker": "",
+          "text": "Damnit"
+        },
+        {
+          "speaker": "",
+          "text": "Damnit....."
+        },
+        {
+          "speaker": "",
+          "text": "Ima nut"
+        },
+        {
+          "speaker": "",
+          "text": "Then I'll maybe go"
+        }
+      ]
+    }
+  ]
+}

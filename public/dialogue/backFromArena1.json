@@ -1,0 +1,218 @@
+{
+  "startCall": "fadeIn",
+  "endCall": "returnFromArena1",
+  "subscene": [
+    {
+      "music": "",
+      "bg": "tunnelBg",
+      "type": "0",
+      "speakers": [],
+      "dialogue": [
+        {
+          "speaker": "",
+          "text": "I escaped"
+        },
+        {
+          "speaker": "",
+          "text": "I actually did"
+        },
+        {
+          "speaker": "",
+          "text": "For once I did something useful"
+        },
+        {
+          "speaker": "",
+          "text": "Hehe"
+        },
+        {
+          "speaker": "",
+          "text": "Hehheheeheehe"
+        },
+        {
+          "speaker": "",
+          "text": "TAKE THAT WORLD"
+        },
+        {
+          "speaker": "",
+          "text": "I am not that useless scum that I was told to"
+        },
+        {
+          "speaker": "",
+          "text": "HEHEEHEEHEHEHEEEHEHEHEHE"
+        },
+        {
+          "speaker": "",
+          "text": "......."
+        },
+        {
+          "speaker": "",
+          "text": "It feels"
+        },
+        {
+          "speaker": "",
+          "text": "Empty"
+        },
+        {
+          "speaker": "",
+          "text": "Steph..."
+        },
+        {
+          "speaker": "",
+          "text": "Are you really here"
+        },
+        {
+          "speaker": "",
+          "text": "........."
+        },
+        {
+          "speaker": "",
+          "text": "Huh?"
+        }
+      ]
+    },
+    {
+      "music": "",
+      "bg": "tunnelBg",
+      "type": "1_1",
+      "speakers": ["Aris", "Juna"],
+      "dialogue": [
+        {
+          "speaker": "Aris",
+          "text": "So you survived"
+        },
+        {
+          "speaker": "Aris",
+          "text": "MY sussy wussy kitten"
+        },
+        {
+          "speaker": "Juna",
+          "text": "......"
+        },
+        {
+          "speaker": "Juna",
+          "text": "Go kys"
+        },
+        {
+          "speaker": "Aris",
+          "text": "Hehe"
+        },
+        {
+          "speaker": "Aris",
+          "text": "I'm not done yet, Juna"
+        },
+        {
+          "speaker": "Aris",
+          "text": "Stephanny is here"
+        },
+        {
+          "speaker": "Aris",
+          "text": "Are you sure that you're gonna go back and nut to loli hentai all day"
+        },
+        {
+          "speaker": "Juna",
+          "text": "....."
+        },
+        {
+          "speaker": "Aris",
+          "text": "Good choice"
+        },
+        {
+          "speaker": "Aris",
+          "text": "Hehe"
+        },
+        {
+          "speaker": "Aris",
+          "text": "Hehehehehehee"
+        },
+        {
+          "speaker": "Aris",
+          "text": "Well then"
+        },
+        {
+          "speaker": "Aris",
+          "text": "I'll give you this key"
+        },
+        {
+          "speaker": "Aris",
+          "text": "It'll take you further down"
+        },
+        {
+          "speaker": "Aris",
+          "text": "See you later Juna"
+        }
+      ]
+    },
+    {
+      "music": "",
+      "bg": "keyBg",
+      "type": "0",
+      "speakers": [],
+      "dialogue": [
+        {
+          "speaker": "",
+          "text": "!!"
+        },
+        {
+          "speaker": "",
+          "text": "A key.."
+        },
+        {
+          "speaker": "",
+          "text": "..to continue"
+        },
+        {
+          "speaker": "",
+          "text": "......"
+        },
+        {
+          "speaker": "",
+          "text": "I..."
+        },
+        {
+          "speaker": "",
+          "text": "I'm exhausted"
+        },
+        {
+          "speaker": "",
+          "text": "........................................"
+        },
+        {
+          "speaker": "",
+          "text": "Fine"
+        },
+        {
+          "speaker": "",
+          "text": "FINE"
+        },
+        {
+          "speaker": "",
+          "text": "I'll show them"
+        },
+        {
+          "speaker": "",
+          "text": "I'LL SHOW THEM WHAT I'M MADE OF"
+        },
+        {
+          "speaker": "",
+          "text": "They've seen the boogieman laugh, cry, and cum"
+        },
+        {
+          "speakers": "",
+          "text": "Hehe"
+        },
+        {
+          "speakers": "",
+          "text": "Okay then"
+        },
+        {
+          "speakers": "",
+          "text": "Lets see how this goes"
+        },
+        {
+          "speakers": "",
+          "text": "Wait for me, stephanny"
+        }
+      ]     
+    }
+  ]
+}
